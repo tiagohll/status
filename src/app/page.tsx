@@ -1,5 +1,4 @@
-import { Router, Wifi } from "lucide-react";
-import Image from "next/image";
+import { Router } from "lucide-react";
 
 export default function Home() {
     return (
